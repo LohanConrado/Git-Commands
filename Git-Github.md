@@ -6,6 +6,7 @@ Parte 1: https://lnkd.in/ee_vi7Vd
 
 Parte 2: https://lnkd.in/eJH9gYE9 
 
+--------------------------------------//-------------------------------------------
 Nomenclaturas:
 	Repositorio = Pasta
 	Versão
@@ -33,8 +34,8 @@ Git bash
   Renomear para "main"
 	git branch -M "main"
 
-git fetch
-git merge
+git fetch (busca um arquivo no repositorio remoto)
+git merge (faz merge dos arquivos)
 
 Ir para a pasta main (principal)
 	git checkout "pasta"
