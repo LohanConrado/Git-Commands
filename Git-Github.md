@@ -1,4 +1,10 @@
-pt-BR
+**pt-BR**
+
+Material recomendado: Recomendo esses 2 videos da **Rafaella Ballerini**
+
+Parte 1: https://lnkd.in/ee_vi7Vd
+
+Parte 2: https://lnkd.in/eJH9gYE9 
 
 Nomenclaturas:
 	Repositorio = Pasta
