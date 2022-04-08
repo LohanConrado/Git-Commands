@@ -1,15 +1,18 @@
 pt-BR
 
-Repositorio, ato de enviar um arquivo se chama commit
-	Versão -> branches
-	Merge (juntar os branches em um versão)
-	Remote
-	Push ( enviar uma versão)
-	Pull (puxar uma versão>
+Nomenclaturas:
+	Repositorio = Pasta
+	Versão
+	Branches = pequenas alterações que podem ser juntadas para formar uma nova versão
+	Merge = juntar os branches em um versão
+	Remote = Adiciona um repositorio remoto ex: link de um repositorio no GitHub
+	Push = ( enviar uma versão )
+	Pull = ( puxar uma versão )
 
 --------------------------------------//-------------------------------------------
 Comandos GIT
 Git bash 
+	
 	git ( inicia um git a partir da pagina)
   
   	git add ( adiciona o arquivo a area staging (antes do commit) )
@@ -20,6 +23,7 @@ Git bash
   
 	git commit (comita os arquivos presentes no staging)
 	git commit -m "Nome do commit"
+  
   Renomear para "main"
 	git branch -M "main"
 
